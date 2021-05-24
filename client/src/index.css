@@ -1,0 +1,47 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+.header{
+  background-color: black;
+  color: white;
+}
+
+li{
+  list-style-type: none;
+  background-color: lightblue;
+  font-size: x-large;
+  max-width: 250px;
+  margin:auto;
+  border-bottom: 2px solid black;
+}
+span{
+  font-style: italic;
+  font-weight: bold;
+}
+
+.block{
+  display: inline-block;
+  max-height: 300px;
+  max-width: 300px;
+}
+.trash{
+  padding: .1rem;
+  border-radius: 8px;
+  border: 1px solid red;
+}
+
+.btn-plus{
+  margin-left: 1rem;
+  color: darkgreen;
+  background-color: black;
+}
+.add-student{
+  margin:3rem auto;
+  border: 1px solid black;
+  width: max-content;
+  padding: .25rem 1rem;
+  background-color: black;
+  color: white;
+}
