@@ -1,2 +1,2 @@
-# Node-Express-Fullstack-Project
+# School Management Project
 Work around with basic features and realistic fonctionnalities
